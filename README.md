@@ -32,4 +32,4 @@ Anyway, I'm currently learning **React** ⚛️, I find it a delight to use, so 
 
 ### 📄 Generate HTML with [11ty](https://www.11ty.dev/) (**Optional assignment**)
 
-![Assignment complete](/path/to/image.png "Assignment complete")
+![Assignment complete](11tyc.jpg "Assignment complete")
