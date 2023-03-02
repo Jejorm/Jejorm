@@ -27,3 +27,9 @@ Anyway, I'm currently learning **React** ⚛️, I find it a delight to use, so 
 | :---: | :---: |
 | *avenv* = **source venv/bin/activate** | Activate python virtual environment |
 | *ll* = **exa -al --icons --color-scale** | Lists all files and directories properly formatted with exa |
+
+---
+
+### 📄 Generate HTML with [11ty](https://www.11ty.dev/) (**Optional assignment**)
+
+![Assignment complete](/path/to/image.png "Assignment complete")
