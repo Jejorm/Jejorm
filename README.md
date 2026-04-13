@@ -1,9 +1,20 @@
-# Hi! I'm Jeremy 🙋🏻🇪🇨
+# Hi, I'm Jeremy 👋
 
-## A brief description about me.
+I'm a Full-Stack Developer focused on building high-performance web applications. I am passionate about bridging the gap between efficient backend logic and dynamic frontend ecosystems, always maintaining a rigorous standard for clean code and seamless user experience.
 
-I am a self-taught student who spent some time in college, passionate about technology and love for learning, especially about **web development** 🧑🏻‍💻. I am fascinated to observe all the *functionality* and *aesthetics* of an application when I have finished it.
+### 🛠 Tech Stack
+- **Frontend:** React, Next.js, Astro, TypeScript
+- **Backend & Runtimes:** Node.js, Bun
+- **Architecture:** WebSockets, REST APIs, Real-time systems
 
-**JavaScript** has become my go-to tool for most of my projects (although *Python* is out there watching us 👀). 
+### 🚀 What I'm currently working on
+- Building specialized projects with **Astro** to master its high-performance ecosystem and island architecture.
+- Refining frontend architectures to build seamless, reactive user interfaces.
+- Scaling my knowledge in high-performance backend environments.
 
-Anyway, I'm currently learning **React** ⚛️, I find it a delight to use, so I'm constantly improving myself and working hard to master it as well as other dominant technologies. I want to become a competent *full-stack* developer capable of making incredible products, and I will get there 💪🏼
+### 💡 My Philosophy
+I don't just write code; I design solutions. I believe in the efficiency of modern runtimes, minimalist UIs, and structural robustness (SOLID, Clean Code).
+
+### 📫 Let's Connect
+- 🌐 **Portfolio:** [jeremyo.dev](https://jeremyo.dev)
+- 💼 **LinkedIn:** [Your LinkedIn Link]
