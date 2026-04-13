@@ -17,4 +17,4 @@ I don't just write code; I design solutions. I believe in the efficiency of mode
 
 ### 📫 Let's Connect
 - 🌐 **Portfolio:** [jeremyo.dev](https://jeremyo.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/jejorm](www.linkedin.com/in/jejorm)
+- 💼 **LinkedIn:** [linkedin.com/in/jejorm](https://linkedin.com/in/jejorm)
